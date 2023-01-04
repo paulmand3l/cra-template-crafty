@@ -1,0 +1,24 @@
+{
+  "name": "cra-template-crafty",
+  "version": "1.2.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "typescript",
+    "prototyping"
+  ],
+  "description": "A crafty template for prototyping with React.",
+  "author": {
+    "name": "Paul Mandel",
+    "email": "paul@craftyasthefox.com"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
